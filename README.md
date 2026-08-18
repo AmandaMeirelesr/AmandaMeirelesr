@@ -2,11 +2,11 @@
 
 ## 👩‍💻 Sobre Mim
 
-Profissional de tecnologia com sólida experiência em análise de dados, infraestrutura de sistemas e automação de processos[cite: 1]. Tenho forte atuação técnica focada na orquestração de fluxos de trabalho, integração de ambientes e suporte a sistemas críticos de alta disponibilidade[cite: 1]. 
+Profissional de tecnologia com sólida experiência em análise de dados, infraestrutura de sistemas e automação de processos. Tenho forte atuação técnica focada na orquestração de fluxos de trabalho, integração de ambientes e suporte a sistemas críticos de alta disponibilidade. 
 
-* 🔭 **Atualmente:** Atuo como Analista de Sistemas na Globo, garantindo a performance de ecossistemas de mídia e broadcast, além de criar automações[cite: 1].
-* 🌱 **Educação:** Formada em Ciência de Dados pela Faculdade de Tecnologia Senac[cite: 1].
-* ⚙️ **Foco:** Desenvolvimento de scripts para automação (Python), tratamento de dados, modelagem (ETL/Data Warehouse) e gestão de indicadores de performance (KPIs)[cite: 1].
+* 🔭 **Atualmente:** Atuo como Analista de Sistemas na Globo, garantindo a performance de ecossistemas de mídia e broadcast, além de criar automações.
+* 🌱 **Educação:** Formada em Ciência de Dados pela Faculdade de Tecnologia Senac.
+* ⚙️ **Foco:** Desenvolvimento de scripts para automação (Python), tratamento de dados, modelagem (ETL/Data Warehouse) e gestão de indicadores de performance (KPIs).
 
 
 ## 🛠️ Competências Técnicas
@@ -20,17 +20,17 @@ Profissional de tecnologia com sólida experiência em análise de dados, infrae
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### ⚙️ Infraestrutura, Redes e Monitoramento
-* **Sistemas e Virtualização:** Linux, Windows, VMware, Azure AD[cite: 1].
-* **Monitoramento:** Grafana, Zabbix, Datalog[cite: 1].
-* **Redes e Mídia:** Cisco Switches, VLAN, VPN, Protocolos de Mídia (SDI, IP, NDI, SRT)[cite: 1].
+* **Sistemas e Virtualização:** Linux, Windows, VMware, Azure AD.
+* **Monitoramento:** Grafana, Zabbix, Datalog.
+* **Redes e Mídia:** Cisco Switches, VLAN, VPN, Protocolos de Mídia (SDI, IP, NDI, SRT).
 
 ### 🧰 Ferramentas
-* Visual Studio, PyCharm, Postman, DevTools, GitHub, Node, SharePoint, Google Analytics[cite: 1].
+* Visual Studio, PyCharm, Postman, DevTools, GitHub, Node, SharePoint, Google Analytics.
 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaMeirelesrhow_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaMeirelesr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaMeirelesr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
