@@ -4,7 +4,6 @@
 
 Profissional de tecnologia com sólida experiência em análise de dados, infraestrutura de sistemas e automação de processos. Tenho forte atuação técnica focada na orquestração de fluxos de trabalho, integração de ambientes e suporte a sistemas críticos de alta disponibilidade. 
 
-* 🔭 **Atualmente:** Atuo como Analista de Sistemas na Globo, garantindo a performance de ecossistemas de mídia e broadcast, além de criar automações.
 * 🌱 **Educação:** Formada em Ciência de Dados pela Faculdade de Tecnologia Senac.
 * ⚙️ **Foco:** Desenvolvimento de scripts para automação (Python), tratamento de dados, modelagem (ETL/Data Warehouse) e gestão de indicadores de performance (KPIs).
 
